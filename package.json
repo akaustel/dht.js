@@ -1,11 +1,11 @@
 {
-  "name": "dht.js",
+  "name": "wish-dht",
   "version": "0.2.16",
   "author": "Fedor Indutny <fedor@indutny.com>",
   "homepage": "https://github.com/indutny/dht.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/indutny/dht.js.git"
+    "url": "http://github.com/akaustel/dht.js.git"
   },
   "main": "lib/dht",
   "devDependencies": {
